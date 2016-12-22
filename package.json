@@ -1,0 +1,19 @@
+{
+  "name": "service_discovery",
+  "version": "1.0.0",
+  "description": "this is the service discovery built on serverless framework",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nedvedyy/service_discovery.git"
+  },
+  "author": "Nedved <nedved.yang@gmail.com> (http://nedved.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nedvedyy/service_discovery/issues"
+  },
+  "homepage": "https://github.com/Nedvedyy/service_discovery#readme"
+}
