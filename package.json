@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Nedvedyy/service_discovery/issues"
   },
-  "homepage": "https://github.com/Nedvedyy/service_discovery#readme"
+  "homepage": "https://github.com/Nedvedyy/service_discovery#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.6.0"
+  },
+  "dependencies": {
+  }
 }
